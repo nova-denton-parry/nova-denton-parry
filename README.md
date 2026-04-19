@@ -28,8 +28,11 @@ I'm currently studying software development and spending my spare cycles on indi
 ## 🛠 Tech I Work With
 
 **Languages:** C#, PHP, GDScript, SQL, JavaScript/Node.js, Python, Swift, HTML/CSS
+
 **Frameworks & Tools:** .NET/ASP.NET Core, .NET MAUI, WCF/SOAP Services, Godot 4, Entity Framework, React, Express.js, Bootstrap, jQuery 
+
 **Databases:** MySQL, SQLite, SQL Server 
+
 **Tools & Environment** Git/GitHub, Visual Studio, VS Code, Xcode, REST APIs, PowerShell/CLI
 
 ---
